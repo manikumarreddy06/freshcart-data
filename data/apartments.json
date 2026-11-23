@@ -6,7 +6,7 @@
     "city": "Hyderabad",
     "isActive": true,
     "deliveryFeePaise": 2900,
-    "minimumOrderPaise": 30000,
+    "minimumOrderPaise": 25000,
     "deliverySlotIds": ["slot-gva-1", "slot-gva-2", "slot-gva-3"],
     "createdAt": "2026-11-01T00:00:00+05:30"
   },
@@ -22,14 +22,36 @@
     "createdAt": "2026-11-01T00:00:00+05:30"
   },
   {
-    "id": "apt-palm-grove",
-    "name": "Palm Grove Residency",
-    "locality": "Miyapur",
+    "id": "apt-my-home-bhooja",
+    "name": "My Home Bhooja",
+    "locality": "Hitec City",
     "city": "Hyderabad",
-    "isActive": false,
-    "deliveryFeePaise": 3900,
-    "minimumOrderPaise": 35000,
-    "deliverySlotIds": [],
+    "isActive": true,
+    "deliveryFeePaise": 3500,
+    "minimumOrderPaise": 30000,
+    "deliverySlotIds": ["slot-mhb-1", "slot-mhb-2"],
+    "createdAt": "2026-11-01T00:00:00+05:30"
+  },
+  {
+    "id": "apt-aparna-sarovar",
+    "name": "Aparna Sarovar Zenith",
+    "locality": "Nallagandla",
+    "city": "Hyderabad",
+    "isActive": true,
+    "deliveryFeePaise": 2900,
+    "minimumOrderPaise": 25000,
+    "deliverySlotIds": ["slot-asz-1", "slot-asz-2"],
+    "createdAt": "2026-11-01T00:00:00+05:30"
+  },
+  {
+    "id": "apt-rainbow-vistas",
+    "name": "Rainbow Vistas Rockgarden",
+    "locality": "Moosapet",
+    "city": "Hyderabad",
+    "isActive": true,
+    "deliveryFeePaise": 3500,
+    "minimumOrderPaise": 30000,
+    "deliverySlotIds": ["slot-rvr-1", "slot-rvr-2"],
     "createdAt": "2026-11-01T00:00:00+05:30"
   }
 ]
