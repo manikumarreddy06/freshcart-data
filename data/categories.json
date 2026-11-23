@@ -1,0 +1,37 @@
+[
+  {
+    "id": "cat-vegetables",
+    "name": "Vegetables",
+    "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=200",
+    "displayOrder": 1,
+    "isActive": true
+  },
+  {
+    "id": "cat-fruits",
+    "name": "Fruits",
+    "imageUrl": "https://images.unsplash.com/photo-1619566636858-adf3ef46400b?w=200",
+    "displayOrder": 2,
+    "isActive": true
+  },
+  {
+    "id": "cat-meat",
+    "name": "Meat & Fish",
+    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?w=200",
+    "displayOrder": 3,
+    "isActive": true
+  },
+  {
+    "id": "cat-dairy",
+    "name": "Dairy",
+    "imageUrl": "https://images.unsplash.com/photo-1550583724-b2692b85b150?w=200",
+    "displayOrder": 4,
+    "isActive": true
+  },
+  {
+    "id": "cat-staples",
+    "name": "Staples",
+    "imageUrl": "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=200",
+    "displayOrder": 5,
+    "isActive": true
+  }
+]

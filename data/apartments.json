@@ -1,0 +1,35 @@
+[
+  {
+    "id": "apt-green-valley",
+    "name": "Green Valley Apartments",
+    "locality": "Kondapur",
+    "city": "Hyderabad",
+    "isActive": true,
+    "deliveryFeePaise": 2900,
+    "minimumOrderPaise": 30000,
+    "deliverySlotIds": ["slot-gva-1", "slot-gva-2", "slot-gva-3"],
+    "createdAt": "2026-11-01T00:00:00+05:30"
+  },
+  {
+    "id": "apt-sunrise-heights",
+    "name": "Sunrise Heights",
+    "locality": "Gachibowli",
+    "city": "Hyderabad",
+    "isActive": true,
+    "deliveryFeePaise": 2900,
+    "minimumOrderPaise": 25000,
+    "deliverySlotIds": ["slot-srh-1", "slot-srh-2"],
+    "createdAt": "2026-11-01T00:00:00+05:30"
+  },
+  {
+    "id": "apt-palm-grove",
+    "name": "Palm Grove Residency",
+    "locality": "Miyapur",
+    "city": "Hyderabad",
+    "isActive": false,
+    "deliveryFeePaise": 3900,
+    "minimumOrderPaise": 35000,
+    "deliverySlotIds": [],
+    "createdAt": "2026-11-01T00:00:00+05:30"
+  }
+]
